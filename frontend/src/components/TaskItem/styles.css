@@ -1,0 +1,11 @@
+.task {
+    background-color: 'cornsilk';
+    margin: '10px auto';
+    min-height: '50px';
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'space-between';
+    max-width: '30%';
+    padding: '0 10px';
+    box-shadow: '4px 4px 4px rgba(0, 0, 0, 0.12)';
+}
